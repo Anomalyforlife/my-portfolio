@@ -45,7 +45,7 @@ export default function Nav() {
               </Box>
             </Box>
               <Box
-                onClick={() => (window.location.href = "#")}
+                onClick={() => (window.location.href = "/contact")}
                 className="button"
               >
                 Contact-Me
