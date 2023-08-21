@@ -9,7 +9,7 @@ import {
 } from "@chakra-ui/react";
 import { CloseIcon, HamburgerIcon } from "@chakra-ui/icons";
 import React from "react";
-import "./Navbar.css";
+import "../css/Navbar.css";
 import { ImGithub } from "react-icons/im";
 
 export default function Nav() {
